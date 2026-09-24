@@ -25,14 +25,11 @@
   },
   "name":"Platformer-Tutorial",
   "resources":[
-    {"id":{"name":"oFlag","path":"objects/oFlag/oFlag.yy",},},
-    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
-    {"id":{"name":"oSolid","path":"objects/oSolid/oSolid.yy",},},
-    {"id":{"name":"oSpike","path":"objects/oSpike/oSpike.yy",},},
+    {"id":{"name":"obj_flag","path":"objects/obj_flag/obj_flag.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},},
+    {"id":{"name":"obj_spike","path":"objects/obj_spike/obj_spike.yy",},},
     {"id":{"name":"Room001_ReachFlag","path":"rooms/Room001_ReachFlag/Room001_ReachFlag.yy",},},
-    {"id":{"name":"Room002_Jump","path":"rooms/Room002_Jump/Room002_Jump.yy",},},
-    {"id":{"name":"Room003_DoNotFall","path":"rooms/Room003_DoNotFall/Room003_DoNotFall.yy",},},
-    {"id":{"name":"Room004_NoSquish","path":"rooms/Room004_NoSquish/Room004_NoSquish.yy",},},
     {"id":{"name":"sBack","path":"sprites/sBack/sBack.yy",},},
     {"id":{"name":"sFlag","path":"sprites/sFlag/sFlag.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
@@ -43,9 +40,6 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room001_ReachFlag","path":"rooms/Room001_ReachFlag/Room001_ReachFlag.yy",},},
-    {"roomId":{"name":"Room002_Jump","path":"rooms/Room002_Jump/Room002_Jump.yy",},},
-    {"roomId":{"name":"Room003_DoNotFall","path":"rooms/Room003_DoNotFall/Room003_DoNotFall.yy",},},
-    {"roomId":{"name":"Room004_NoSquish","path":"rooms/Room004_NoSquish/Room004_NoSquish.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
