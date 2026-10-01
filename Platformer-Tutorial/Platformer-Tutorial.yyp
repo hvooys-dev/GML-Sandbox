@@ -10,6 +10,7 @@
   },
   "defaultScriptType":1,
   "Folders":[
+    {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -31,6 +32,7 @@
     {"id":{"name":"obj_spike","path":"objects/obj_spike/obj_spike.yy",},},
     {"id":{"name":"Room001_ReachFlag","path":"rooms/Room001_ReachFlag/Room001_ReachFlag.yy",},},
     {"id":{"name":"Room002_Jump","path":"rooms/Room002_Jump/Room002_Jump.yy",},},
+    {"id":{"name":"Room003_DoNotFall","path":"rooms/Room003_DoNotFall/Room003_DoNotFall.yy",},},
     {"id":{"name":"sBack","path":"sprites/sBack/sBack.yy",},},
     {"id":{"name":"sFlag","path":"sprites/sFlag/sFlag.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
@@ -40,6 +42,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Room003_DoNotFall","path":"rooms/Room003_DoNotFall/Room003_DoNotFall.yy",},},
     {"roomId":{"name":"Room001_ReachFlag","path":"rooms/Room001_ReachFlag/Room001_ReachFlag.yy",},},
     {"roomId":{"name":"Room002_Jump","path":"rooms/Room002_Jump/Room002_Jump.yy",},},
   ],
